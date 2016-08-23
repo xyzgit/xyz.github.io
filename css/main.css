@@ -42,3 +42,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+pre {
+    font-size: 1.2em;
+    padding-left: 10px;
+    border-left: 1px solid #d5d5d5;
+}
