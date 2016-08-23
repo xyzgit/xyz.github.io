@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "blog tutorial"
 date: 2016-08-19
 ---
+I decide to build my technology blog. All beginnings are so hard, not because i can't do it, just because i am too lazy to do it.
 
-tutorial
-http://jmcglone.com/guides/github-pages/#
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Here is the guide page  which I learned to build my blog step by step, [click me to learn](http://jmcglone.com/guides/github-pages)
