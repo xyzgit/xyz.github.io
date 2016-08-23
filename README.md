@@ -1,2 +1,2 @@
 # xyz.github.io
-Software engineer, The Walking Dead fans
+Software engineer, The Walking Dead fan
