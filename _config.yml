@@ -1,2 +1,5 @@
 name: xyz
 markdown: kramdown
+
+# Google services
+google_analytics: UA-83005989-1
