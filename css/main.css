@@ -21,12 +21,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     color: #333;
 }
 footer {
@@ -47,5 +47,10 @@ pre {
     font-size: 1.2em;
     padding: 10px;
     border-left: 1px solid #d5d5d5;
+    background-color: #f7f7f7;
+}
+
+blockquote {
+    font-size: 1em;
     background-color: #f7f7f7;
 }
