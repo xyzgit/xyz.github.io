@@ -2,8 +2,13 @@
 layout: default
 title: xyz
 ---
-<div class="blurb">
-	<h1>Hi there, I'm xyz</h1>
-	<p>I am a software engineer and a The Walking Dead fan.</P>
-	<p>Welcome to visit <a href="./blog/">my blog</a></p>
-</div><!-- /.blurb -->
+<div>
+	<ul class="posts">
+	  {% for post in site.posts %}
+	    <li>
+			<span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		</li>
+		<br/>
+	  {% endfor %}
+	</ul>
+</div>
