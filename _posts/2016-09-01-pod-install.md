@@ -3,7 +3,7 @@ layout: post
 title: "pod install"
 date: 2016-09-01
 ---
-There is an error occur during init the simplenote-ios using pod install.
+There was an error occured when I installed the simplenote-ios.
 
 >TypeError - Unable to convert Ruby value "Reachability" into a CFTypeRef
 

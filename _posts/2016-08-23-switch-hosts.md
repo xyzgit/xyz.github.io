@@ -3,7 +3,7 @@ layout: post
 title: "switch hosts"
 date: 2016-08-23
 ---
-When i at home, and want to pull the code from company's gitlab, i have to change the ip address every time, that wastes time and i do not want repeat the action again and again. So i write this python script to do it quickly.
+When I at home, and want to pull the code from company's gitlab, I have to change the ip address every time, that wastes time and I do not want repeat the action again and again. So I write this python script to do it quickly.
 
 [python file](../../../files/switch_hosts.py)
 
