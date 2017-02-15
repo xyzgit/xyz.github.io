@@ -46,6 +46,7 @@ ul.posts li {
 pre {
     font-size: 1.2em;
     padding: 10px;
+	margin-left: 30px;
     border-left: 1px solid #d5d5d5;
     background-color: #f7f7f7;
 }
